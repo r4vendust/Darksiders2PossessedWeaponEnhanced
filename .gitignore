@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+*.user
+*.suo
+*.VC.db
+*.opendb
+*.filters
+*.aps
+
+# Build outputs
+*.dll
+*.asi
+*.exp
+*.lib
+*.pdb
+*.ilk
+*.obj
+
+# Runtime config files (auto-generated, user-specific)
+Darksiders2PossessedWeaponEnhanced.ini
+Darksiders2PrestigeData.ini
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
